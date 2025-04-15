@@ -43,7 +43,7 @@ cd qbin
 deno run --allow-net --allow-env --allow-read --unstable-kv --unstable-broadcast-channel index.ts
 ```
 
-### 打包exe程序
+### 打包执行程序
 
 #### Windows
 ```  --no-terminal
