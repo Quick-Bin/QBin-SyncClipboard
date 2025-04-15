@@ -19,6 +19,7 @@ C/S架构
 3. 设置Shortcuts 为 Pythonista Keyboard
 4. New Shortcut 输入Arguments `send`，标题：剪贴板-发送
 5. 重复步骤3，New Shortcut 输入Arguments `receive`，标题：剪贴板-接收
+6. 切换为 Pythonista 输入法开始使用
 
 #### PC
 暂未完成，欢迎大佬PR
@@ -73,9 +74,9 @@ deno compile --target aarch64-apple-darwin --allow-net --allow-env --allow-read 
 #### IOS
 访问 `http://localhost:8000/home#settings` 生成Token，后面需要用到
 
-点击运行代码跟着提示操作
+点击运行代码跟着提示操作，也可以在api_config.json文件进行修改
 
-#### QBin
+#### QBin 服务
 修改`.env`配置文件
 ```
 # 管理员信息（登录时需要）
