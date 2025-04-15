@@ -15,7 +15,7 @@ C/S架构
 
 #### IOS 
 1. 安装 [Pythonista](https://apps.apple.com/tw/app/pythonista-3/id1085978097)
-2. 导入 clipbord.py 代码
+2. 导入 clipboard.py 代码
 3. 设置Shortcuts 为 Pythonista Keyboard
 4. New Shortcut 输入Arguments `send`，标题：剪贴板-发送
 5. 重复步骤3，New Shortcut 输入Arguments `receive`，标题：剪贴板-接收
